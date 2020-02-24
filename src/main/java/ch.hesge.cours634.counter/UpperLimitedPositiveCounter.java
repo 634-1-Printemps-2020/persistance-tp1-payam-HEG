@@ -18,9 +18,8 @@ public class UpperLimitedPositiveCounter extends Counter {
 
     @Override
     public void add(int step) throws CounterException {
-        if(this.cmpt > 0 || this.cmpt < MAX_NUM) {
-            super.add(step);
-        } else {
+        super.add(step);
+        if(this.cmpt < 0 || this.cmpt > MAX_NUM) {
             throw new CounterException();
         }
     }

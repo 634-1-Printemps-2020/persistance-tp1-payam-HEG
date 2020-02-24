@@ -2,15 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb2659b5-5328-4d41-855a-aede7651ad6b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch.hesge.cours634.counter/CounterException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch.hesge.cours634.counter/Counter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch.hesge.cours634.counter/Counter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ch.hesge.cours634.counter/UpperLimitedPositiveCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch.hesge.cours634.counter/UpperLimitedPositiveCounter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/ch/hesge/cours634/counter/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ch/hesge/cours634/counter/Main.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,7 +28,13 @@
   </component>
   <component name="ProjectId" id="1YFLhNLwzCBe1YfkSKSwqk18oYy" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -52,23 +54,11 @@
       <recent name="$PROJECT_DIR$/src/test/java/ch/hesge/cours634/counter" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="C:/Program Files/Java/jdk-11.0.3" />
+      <option name="ALTERNATIVE_JRE_PATH" value="11.0.5" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Main" />
+      <option name="MAIN_CLASS_NAME" value="ch.hesge.cours634.counter.Main" />
       <module name="Revision" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -76,6 +66,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -115,5 +122,35 @@
     <ignored-roots>
       <path value="Z:/../../.." />
     </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="164" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582536813862">
+      <screen x="0" y="23" width="1440" height="815" />
+    </state>
+    <state x="164" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.815@0.23.1440.815" timestamp="1582536813862" />
+    <state x="437" y="199" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1582536773227">
+      <screen x="0" y="23" width="1440" height="815" />
+    </state>
+    <state x="437" y="199" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1440.815@0.23.1440.815" timestamp="1582536773227" />
+    <state x="550" y="315" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1582536664273">
+      <screen x="0" y="23" width="1440" height="815" />
+    </state>
+    <state x="550" y="315" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1440.815@0.23.1440.815" timestamp="1582536664273" />
+    <state width="1358" height="195" key="GridCell.Tab.0.bottom" timestamp="1582537388507">
+      <screen x="0" y="23" width="1440" height="815" />
+    </state>
+    <state width="1358" height="195" key="GridCell.Tab.0.bottom/0.23.1440.815@0.23.1440.815" timestamp="1582537388507" />
+    <state width="1358" height="195" key="GridCell.Tab.0.center" timestamp="1582537388506">
+      <screen x="0" y="23" width="1440" height="815" />
+    </state>
+    <state width="1358" height="195" key="GridCell.Tab.0.center/0.23.1440.815@0.23.1440.815" timestamp="1582537388506" />
+    <state width="1358" height="195" key="GridCell.Tab.0.left" timestamp="1582537388505">
+      <screen x="0" y="23" width="1440" height="815" />
+    </state>
+    <state width="1358" height="195" key="GridCell.Tab.0.left/0.23.1440.815@0.23.1440.815" timestamp="1582537388505" />
+    <state width="1358" height="195" key="GridCell.Tab.0.right" timestamp="1582537388507">
+      <screen x="0" y="23" width="1440" height="815" />
+    </state>
+    <state width="1358" height="195" key="GridCell.Tab.0.right/0.23.1440.815@0.23.1440.815" timestamp="1582537388507" />
   </component>
 </project>
